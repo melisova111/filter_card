@@ -3,7 +3,7 @@ const filterMark = document.querySelector('.filter_mark')
 const cardsContainer = document.querySelector('.cards')
   
 function addCards(el) {
-  let card = `
+  let card = ` 
   <div class="card"> 
     <div class="card_img">
       <img src=${el.img} alt="">
