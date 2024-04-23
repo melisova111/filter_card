@@ -1,7 +1,7 @@
 const filterModel = document.querySelector('.filter_model')
 const filterMark = document.querySelector('.filter_mark')
 const cardsContainer = document.querySelector('.cards')
-
+ 
 function addCards(el) {
   let card = `
   <div class="card"> 
