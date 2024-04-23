@@ -4,7 +4,7 @@ const cardsContainer = document.querySelector('.cards')
 
 function addCards(el) {
   let card = `
-  <div class="card">
+  <div class="card"> 
     <div class="card_img">
       <img src=${el.img} alt="">
     </div>
