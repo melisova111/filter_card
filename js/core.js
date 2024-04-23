@@ -60,7 +60,7 @@ modelBtns.forEach(el => {
       let btn = `
 <button class="btn mark">${el}</button>
 `
-
+ 
       filterMark.insertAdjacentHTML('beforeend', btn)
     })
 
