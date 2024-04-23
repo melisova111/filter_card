@@ -83,7 +83,7 @@ modelBtns.forEach(el => {
     })
   })
 })
-
+ 
 
 
 // const btnFilter = document.querySelector('.filter_btn')
