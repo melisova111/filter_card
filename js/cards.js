@@ -8,7 +8,7 @@ const cards = [
 		volume: 1,
 		info: 'Chevrolet Spark — малолитражный автомобиль, выпускаемый General Motors с 2005 года. До 2015 года был известен на некоторых рынках, как Daewoo Matiz. А с 2015 до 2020 год за пределы Узбекистана поставлялся под маркой Ravon R2.',
 	},
- 
+  
 	{
 		mark: 'Chevrolet',
 		model: 'Camaro',
