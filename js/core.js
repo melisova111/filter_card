@@ -52,7 +52,7 @@ modelBtns.forEach(el => {
       // else if (this.innerText === 'all'){
       //   addCards(el)
       // }
-    })
+    }) 
 
     filterMark.innerHTML = ` <button class="btn mark">all</button>`
     const newArrFromModel = Array.from(new Set(arrFromModel))
