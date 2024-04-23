@@ -69,7 +69,7 @@ modelBtns.forEach(el => {
     } else {
       document.querySelector('.filter_mark-wrap').style.display = "none"
     }
-
+ 
     const markBtns = document.querySelectorAll('.mark')
     markbtns.forEach(el => {
       el.addEventListener('click', function () {
