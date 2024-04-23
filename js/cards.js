@@ -179,7 +179,7 @@ const cards = [
 		volume: 1.4,
 		info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam mollitia voluptatibus in omnis error quod odio provident, officia totam',
 	},	{
-		mark: 'Huawei',
+		mark: 'Huawei', 
 		model: 'X5 Seres SF5',
 		priceDollar: 50500,
 		img: 'https://im.mashina.kg/tachka/images//f/3/6/f36745fc7bad357a220d1509b13090ca_640x480.jpg',
