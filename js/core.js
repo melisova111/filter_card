@@ -79,7 +79,7 @@ modelBtns.forEach(el => {
         
       }else if (this.innerText === 'ВСЕ'){
         addCards(el)
-      }
+      } 
     })
   })
 })
