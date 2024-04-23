@@ -65,7 +65,7 @@ const cards = [
 	},
 
 	{
-		mark: 'BMW',
+		mark: 'BMW', 
 		model: '7',
 		priceDollar: 75000,
 		img: 'https://im.mashina.kg/tachka/images//1/2/2/122f3d3043b8f302d25615461d0a4090_640x480.jpg',
