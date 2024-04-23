@@ -20,7 +20,7 @@ function addCards(el) {
   </div>
   `
   cardsContainer.insertAdjacentHTML('beforeend', card)
-}
+} 
 
 const arrFromMark = []
 cards.map(el => {
