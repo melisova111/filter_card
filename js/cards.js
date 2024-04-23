@@ -95,7 +95,7 @@ const cards = [
 	{
 		mark: 'Mercedes-Benz ',
 		model: 'S-Класс AMG',
-		priceDollar: 85000,
+		priceDollar: 85000, 
 		img: 'https://im.mashina.kg/tachka/images//f/5/a/f5a35fd201fa3a9b7f83e6bc7d2c3eb2_640x480.jpg',
 		year: 2016,
 		volume: 5.5,
