@@ -136,7 +136,7 @@ const cards = [
 		year: 2009,
 		volume: 1.8,
 		info: ' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam mollitia voluptatibus in omnis error quod odio provident, officia totam dolore fuga ipsa consectetur ex adipisci commodi corporis nesciunt accusantium beatae!',
-	},
+	}, 
 	{
 		mark: 'Audi',
 		model: 'Q6',
