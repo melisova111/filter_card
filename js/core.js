@@ -36,7 +36,7 @@ newArrFromMark.map(el => {
 })
 
 
-const modelBtns = document.querySelectorAll('.model')
+const modelBtns  = document.querySelectorAll('.model')
 modelBtns.forEach(el => {
   el.addEventListener('click', function () {
     document.querySelector('.model.active').classList.remove('active')
